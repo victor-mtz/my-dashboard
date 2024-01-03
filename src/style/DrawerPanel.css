@@ -1,0 +1,18 @@
+.dashboard-owner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.dashboard-owner > div {
+  display: flex;
+  justify-self: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.dashboard-owner > p {
+  color: cyan;
+  font-size: x-small;
+}
